@@ -1,5 +1,5 @@
 {
-  "name": "simple-cli-todolist",
+  "name": "@mfahadfarooq/simple-cli-todolist",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
